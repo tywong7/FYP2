@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970281874892",
+    "firebase_url": "https://fyp2-79798.firebaseio.com",
+    "project_id": "fyp2-79798",
+    "storage_bucket": "fyp2-79798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970281874892:android:d137cf1bac120fc011d969",
+        "android_client_info": {
+          "package_name": "com.fyp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970281874892-0mslhb0ob8t86cc9j7a80bnb9teupjf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp2",
+            "certificate_hash": "d3decff40e36826d09dbdb57d2ae308958ea10d3"
+          }
+        },
+        {
+          "client_id": "970281874892-gn2uvsf0b51pdijjq08r6ajbe9vb1va5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "***"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970281874892-gn2uvsf0b51pdijjq08r6ajbe9vb1va5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
